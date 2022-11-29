@@ -1,2 +1,2 @@
 # dgca-verification-dcc-interfaces-ios
-User Interfaces for DCC inspector par
+This repository provides commonly used interfaces for the EU Digital Certificate to be implemented in the [verifier](https://github.com/eu-digital-green-certificates/dgca-verifier-app-ios) and [wallet](https://github.com/eu-digital-green-certificates/dgca-wallet-app-ios) app. Commonly used interfaces include but not limited to UI components such as cells, buttons and storyboards.
